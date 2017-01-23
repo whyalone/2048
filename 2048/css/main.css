@@ -1,0 +1,104 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.warp {
+	width: 320px;
+	height: 440px;
+	position: relative;
+	border: 1px solid #82b1d2;
+	border-radius: 10px;
+	top: 100px;
+	left: 50%;
+	margin-left: -166px;
+	background: url(../img/warp_bg.png) repeat;
+}
+
+.warp div {
+	width: 58px;
+	height: 88px;
+	background-size: contain;
+	position: absolute;
+	z-index: 1;
+}
+
+.c1 {
+	top: 11px;
+	left: 11px;
+}
+
+.c2 {
+	top: 11px;
+	left: 91px;
+}
+
+.c3 {
+	top: 11px;
+	left: 171px;
+}
+
+.c4 {
+	top: 11px;
+	left: 251px;
+}
+
+.c5 {
+	top: 121px;
+	left: 11px;
+}
+
+.c6 {
+	top: 121px;
+	left: 91px;
+}
+
+.c7 {
+	top: 121px;
+	left: 171px;
+}
+
+.c8 {
+	top: 121px;
+	left: 251px;
+}
+
+.c9 {
+	top: 231px;
+	left: 11px;
+}
+
+.c10 {
+	top: 231px;
+	left: 91px;
+}
+
+.c11 {
+	top: 231px;
+	left: 171px;
+}
+
+.c12 {
+	top: 231px;
+	left: 251px;
+}
+
+.c13 {
+	top: 341px;
+	left: 11px;
+}
+
+.c14 {
+	top: 341px;
+	left: 91px;
+}
+
+.c15 {
+	top: 341px;
+	left: 171px;
+}
+
+.c16 {
+	top: 341px;
+	left: 251px;
+}
